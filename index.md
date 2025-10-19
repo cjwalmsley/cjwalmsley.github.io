@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Your Name
+# Chris Walmsley
 *PhD Candidate in Computer Science | Software Delivery Manager*
 
 ## About Me
