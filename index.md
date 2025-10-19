@@ -5,7 +5,7 @@ layout: default
 # My current academic and industry roles
 *PhD Candidate in Computer Science | Software Delivery Manager*
 
-## Currrent activities
+## Current activities
 Performing experiments to train and evaluate a cognitive language model with a new datasets.
 
 ## Publications
