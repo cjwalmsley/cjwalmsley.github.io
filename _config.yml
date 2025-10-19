@@ -6,7 +6,7 @@
 # Site settings
 title: Chris Walmsley - Academic Profile
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD candidate focusing on cognitive language models for robotics augmentation. I also work as a Software Delivery Manager at an investment bank. My research interests include cognitive architec[...]
+  I am a PhD candidate focusing on cognitive language models for robotics augmentation. I also work as a Software Delivery Manager at an investment bank. My research interests include cognitive architectures, natural language processing, multi-modal porcessing and human-robot interaction. I am proficient in Python and Smalltalk and enjoy applying theoretical concepts to practical problems.
 
 # Theme selection
 theme: jekyll-theme-minimal
