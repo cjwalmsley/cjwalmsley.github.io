@@ -6,7 +6,7 @@
 # Site settings
 title: Chris Walmsley - Academic Profile
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD student researching cognitive language models for robotics augmentation. My research interests include cognitive architectures, autonomous learning, context-aware learning and human-robot interaction. I am proficient in Python and Smalltalk and enjoy applying theoretical concepts to practical problems.
+  I am a PhD student researching cognitive language models for robotics augmentation. My research interests include cognitive architectures, autonomous learning, context-aware learning and human-robot interaction. I enjoy applying theoretical concepts to practical problems.
   I also work part time as a Technical Consultant at an investment bank.  I have over 20 years of software development experience in the financial industry.
 
 # Theme selection
