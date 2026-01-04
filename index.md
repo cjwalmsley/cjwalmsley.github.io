@@ -2,8 +2,12 @@
 layout: default
 ---
 
+![Profile Picture](assets/images/profile.jpg)
+
 # My current academic and industry roles
-*PhD Candidate in Computer Science | Software Delivery Manager*
+*PhD Candidate in Computer Science at the [University of Kent](https://www.kent.ac.uk/), UK.*
+
+*Technical Consultant at Bank of America, UK*
 
 ## Current activities
 Performing experiments to train and evaluate a cognitive language model with a new datasets.
